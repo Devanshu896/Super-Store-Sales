@@ -58,4 +58,8 @@ Identify trends and performance metrics across regions, products, and customers.
 
 Build a project suitable for portfolio display and real-world BI case studies.
 
+https://github.com/Devanshu896/Super-Store-Sales/blob/main/Super%20Store%20Sales%20SS..png
+
+![Alt Text](https://github.com/Devanshu896/Super-Store-Sales/blob/main/Super%20Store%20Sales%20SS..png
+)
 
