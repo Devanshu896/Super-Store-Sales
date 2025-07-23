@@ -1,0 +1,72 @@
+Super Store Sales Report:
+
+ 1: Overview Dashboard
+Visuals:
+
+KPI Cards:
+
+Total Sales
+
+Total Profit
+
+Total Orders
+
+Average Discount
+
+Line Chart:
+
+Sales over Time (by Month & Year)
+
+Stacked Column Chart:
+
+Sales & Profit by Region
+
+Map Visualization:
+
+Sales by State
+
+ 2: Category Performance
+Visuals:
+
+Bar Chart:
+
+Sales by Category and Sub-Category
+
+Pie Chart:
+
+Profit Contribution by Category
+
+Treemap:
+
+Sales by Product Names (Top 20)
+
+ 3: Customer & Segment Analysis
+Visuals:
+
+Donut Chart:
+
+Sales by Customer Segment
+
+Clustered Bar Chart:
+
+Profit by Segment and Region
+
+Table Visual:
+
+Top 10 Customers by Sales and Profit
+
+ 4: Shipping & Discount Trends
+Visuals:
+
+Bar Chart:
+
+Sales by Ship Mode
+
+Scatter Plot:
+
+Discount vs Profit (to detect loss-driving discount patterns)
+
+Histogram or Line Chart:
+
+Average Shipping Time (Order Date to Ship Date)
+
