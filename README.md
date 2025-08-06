@@ -63,3 +63,6 @@ Build a project suitable for portfolio display and real-world BI case studies.
 ![Super Store Sales Dashboard](https://github.com/Devanshu896/Super-Store-Sales/blob/main/Super%20Store%20Sales%20SS..png
 )
 
+
+
+![Alt text](https://github.com/Devanshu896/Super-Store-Sales/blob/main/SuperStoreSales%20Forecast..png)
